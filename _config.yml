@@ -1,7 +1,7 @@
 # Site settings
 title      : Rhonin
 SEOTitle   : Rhonin的博客 | RhoninYoung's Blog
-header-img : img/home-bg.jpg
+header-img : img/header-img.jpg
 email      : rhoninyoung@gmail.com
 description: "痴人说梦"
 keyword    : "蛤"
@@ -71,7 +71,7 @@ ga_domain: rhoninyoung.com
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "The only absolute knowledge attainable by man is that life is meaningless。"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/rhonin.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
